@@ -1,4 +1,4 @@
-# Kiwari Bot Webhook Sample with Ruby
+# ChatAja! Bot Webhook Sample with Ruby
 
 ## Requirements
 
@@ -36,5 +36,5 @@ $ rails server
 $ ngrok http 3000
 ```
 
-* Register your webhook url by copy your ngrok https url from CLI, then input it to `Chatbot Builder`
+* Register your webhook url by copy your ngrok https url from CLI, then input it into `Chatbot Builder`
 * Enjoy!
